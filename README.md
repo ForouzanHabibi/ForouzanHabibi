@@ -1,16 +1,30 @@
-## Hi there 👋
-I have always been the go-to person for tackling math and physics challenges. Solving problems fills me with genuine joy, and I vividly recall spending days grappling with complex questions during my high school and university years. For me, the greatest reward is the knowledge gained—no matter how small—at the end of each day. This insatiable curiosity has driven me to explore advanced techniques in my field, leading to 14 published papers and 2 more currently under review. I take great pride in my contributions to research and my continuous pursuit of learning. My projects have conducted using Computer Softwares like; LabVIEW, MATLAB, Lumerical, Zemax, Python, Fortran, Maple, R-soft, COMSOL Multiphysics
-<!--
-**ForouzanHabibi/ForouzanHabibi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🔬 Optics & Signal Processing Portfolio
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+I am an optical and signal processing researcher with expertise in:
+- Adaptive optics & atmospheric turbulence correction
+- Metalenses, optical vortex, and Airy beams
+- Numerical simulations using MATLAB, Python, Zemax, Lumerical
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills & Tools
+- **Programming:** Python, MATLAB, LabVIEW
+- **Optical Design:** Zemax, Lumerical, COMSOL
+- **Machine Learning for Optics**
+
+## 🚀 Featured Projects
+### 1️⃣ **Wavefront Correction Using Adaptive Optics**
+🔗 [GitHub Repo](https://github.com/yourusername/AdaptiveOptics)
+- Implemented **Shack-Hartmann Wavefront Sensor simulation**
+- Applied **Zernike polynomials & Fourier filtering** for aberration correction
+- Developed **real-time Kalman filtering for AO correction**
+
+### 2️⃣ **Fourier Optics Simulation in Python**
+🔗 [GitHub Repo](https://github.com/yourusername/FourierOptics)
+- Simulated **Fraunhofer & Fresnel diffraction**
+- Applied **wavelet denoising for phase retrieval**
+- Created **interactive Jupyter Notebooks** for visualization
+
+## 📜 Certifications
+- ✅ Sensors and Sensor Circuit Design (Coursera)
+- ✅ Programming for Everybody (Python)
+- ✅ Digital Signal Processing 1: Basic Algorithms

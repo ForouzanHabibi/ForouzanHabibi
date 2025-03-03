@@ -50,9 +50,9 @@ I am a **researcher in optics and signal processing** with expertise in:
 
 ## 🛠 **Skills & Tools**
 ### 🔹 **Programming & Simulation**
-- **Python** (NumPy, SciPy, Matplotlib, OpenCV)
-- **MATLAB** (Fourier optics, signal processing, simulations)
-- **LabVIEW** (Hardware control & AO implementation)
+- **Python** 
+- **MATLAB** 
+- **LabVIEW** 
 
 ### 🔹 **Optics & Computational Tools**
 - **Lumerical** (FDTD, Metalenses, Photonic Simulations)
@@ -62,8 +62,10 @@ I am a **researcher in optics and signal processing** with expertise in:
 ---
 
 ## 📜 Certifications
+- ✅ First Order Optical System Design
 - ✅ Sensors and Sensor Circuit Design (Coursera)
 - ✅ Programming for Everybody (Python)
+- ✅ Python Data Structures
 - ✅ Digital Signal Processing 1: Basic Algorithms
 
 

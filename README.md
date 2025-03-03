@@ -9,7 +9,6 @@ I am an optical and signal processing researcher with expertise in:
 ## 🛠 Skills & Tools
 - **Programming:** Python, MATLAB, LabVIEW
 - **Optical Design:** Zemax, Lumerical, COMSOL
-- **Machine Learning for Optics**
 
 ## 🚀 Featured Projects
 ### 1️⃣ **Wavefront Correction Using Adaptive Optics**

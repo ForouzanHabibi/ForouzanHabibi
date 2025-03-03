@@ -11,7 +11,7 @@ I am a **researcher in optics and signal processing** with expertise in:
 - **Signal Processing & Fourier Optics** (FFT, Wavelets, Filtering)
 - **Computational Simulations** (Lumerical, Zemax, COMSOL, MATLAB, Python)
 
-🔗 **[LinkedIn](https://www.linkedin.com/in/yourprofile) | [Google Scholar](https://scholar.google.com/citations?user=XXXX) | [GitHub](https://github.com/yourusername)**
+🔗 **[LinkedIn](https://www.linkedin.com/in/forouzan-habibi-80830a1ab) | [Google Scholar](https://scholar.google.com/citations?user=azVT328AAAAJ&hl=en) | [GitHub](https://github.com/ForouzanHabibi)**
 
 ---
 
@@ -70,7 +70,6 @@ I am a **researcher in optics and signal processing** with expertise in:
 ## 📞 **Contact Me**
 💡 Interested in collaborating on **optical simulations, signal processing, or AI for optics**? Feel free to reach out!  
 📧 **Email:** forouzan.habibi1990@gmail.com  
-🔗 **Linkedin Website:** https://www.linkedin.com/in/forouzan-habibi-80830a1ab
 
 ---
 

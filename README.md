@@ -5,46 +5,66 @@ Welcome to my portfolio! I specialize in **metalenses, optical simulations, adap
 ---
 
 ## 📌 **About Me**
-I am a **researcher in optics and signal processing** with expertise in:
-- **Metalenses & Metasurfaces** (Phase manipulation, diffraction)
-- **Adaptive Optics & Wavefront Correction** (Turbulence simulation, AO control)
-- **Signal Processing & Fourier Optics** (FFT, Wavelets, Filtering)
-- **Computational Simulations** (Lumerical, Zemax, COMSOL, MATLAB, Python)
 
+I am a **researcher in optics, photonics, and scientific computing** with expertise in:
+
+- **Metalenses & Metasurfaces** (Wavefront engineering, phase manipulation, diffraction)
+- **Computational Photonics & Electromagnetic Simulation** (FDTD, FEM, Lumerical, COMSOL)
+- **Optical System Design** (Zemax OpticStudio)
+- **Signal Processing & Fourier Optics** (FFT, filtering, wavefront analysis)
+- **Scientific Computing & Data Analysis** (Python, MATLAB, Pandas)
+- **Scientific Data Curation & AI-Assisted Analysis** (Structured experimental datasets, LLM-assisted workflows)
+  
 🔗 **[LinkedIn](https://www.linkedin.com/in/forouzan-habibi-80830a1ab) | [Google Scholar](https://scholar.google.com/citations?user=azVT328AAAAJ&hl=en) | [GitHub](https://github.com/ForouzanHabibi)**
 
 ---
 
 ## 🚀 **Featured Projects**
-### **1️⃣ Metalens Design & Simulation**
-🔗 **[GitHub Repo](https://github.com/yourusername/metalens-simulation)**
-- Simulated a **phase-engineered metalens** using MATLAB.
-- Implemented **hyperbolic phase profile** for beam focusing.
-- Analyzed the **Fourier transform-based diffraction patterns**.
 
-### **2️⃣ Adaptive Optics for Wavefront Correction**
-🔗 **[GitHub Repo](https://github.com/yourusername/adaptive-optics)**
-- Simulated **Shack-Hartmann Wavefront Sensor (SHWS)** for turbulence correction.
-- Implemented **Zernike polynomials & Fourier filtering** for wavefront reconstruction.
-- Applied **Kalman filtering for real-time AO correction**.
+### **1️⃣ Metalens Design & Computational Optics**
+🔗 **[GitHub Repository](REPOSITORY-LINK)**
+- Designed and simulated **phase-engineered metalenses** for optical beam focusing.
+- Implemented **hyperbolic phase profiles** and analyzed wavefront manipulation.
+- Investigated **diffraction and Fourier-optics-based propagation** using numerical simulations.
+- Applied computational methods relevant to **metasurfaces and nanophotonics**.
 
-### **3️⃣ Fourier Transform-Based Signal Processing**
-🔗 **[GitHub Repo](https://github.com/yourusername/signal-processing)**
-- Implemented **FFT-based signal analysis and noise filtering**.
-- Designed a **MATLAB-based high-pass and low-pass filtering system**.
-- Used **wavelet transforms** for multi-resolution signal decomposition.
+---
 
-### **4️⃣ Optical Vortex Beam Generation**
-🔗 **[GitHub Repo](https://github.com/yourusername/optical-vortex)**
-- Simulated **optical vortex beams with MATLAB/Python**.
-- Analyzed **helical phase distribution & OAM (Orbital Angular Momentum)**.
-- Used **Fourier optics to propagate vortex beams**.
+### **2️⃣ Perovskite Solar-Cell Scientific Data Curation & Analysis**
+🔗 **[GitHub Repository](REPOSITORY-LINK)**
 
-### **5️⃣ Atmospheric Turbulence Simulation**
-🔗 **[GitHub Repo](https://github.com/yourusername/turbulence-simulation)**
-- Created **Kolmogorov turbulence phase screens**.
-- Implemented **phase distortion models for free-space optics**.
-- Analyzed **PSF degradation and AO correction methods**.
+- Developed a **Python-based scientific data curation pipeline** for experimental perovskite solar-cell datasets.
+- Cleaned and validated photovoltaic records containing **PCE, Voc, Jsc, FF, absorber, ETL, HTL, and device architecture information**.
+- Extracted and analyzed high-performance device configurations from structured experimental data.
+- Generated trusted datasets for **scientific analysis and evidence-grounded LLM-assisted querying**.
+- Used **Python, Pandas, data validation, scientific data analysis, and LLM-assisted workflows**.
+
+---
+
+### **3️⃣ Adaptive Optics & Wavefront Reconstruction**
+🔗 **[GitHub Repository](REPOSITORY-LINK)**
+- Simulated **wavefront distortions and adaptive-optics correction methods**.
+- Implemented **Zernike-polynomial-based wavefront representation and reconstruction**.
+- Applied Fourier-domain methods for optical wavefront analysis.
+- Investigated computational approaches for **turbulence-induced aberration correction**.
+
+---
+
+### **4️⃣ Optical Vortex Beam Simulation**
+🔗 **[GitHub Repository](REPOSITORY-LINK)**
+- Simulated **optical vortex beams and helical phase distributions**.
+- Analyzed **orbital angular momentum (OAM)** and phase singularities.
+- Applied **Fourier optics and numerical propagation methods** to investigate vortex-beam evolution.
+- Implemented simulations using **MATLAB/Python**.
+
+---
+
+### **5️⃣ Atmospheric Turbulence & Optical Propagation**
+🔗 **[GitHub Repository](REPOSITORY-LINK)**
+- Generated numerical **Kolmogorov turbulence phase screens**.
+- Modeled turbulence-induced phase distortions in **free-space optical propagation**.
+- Analyzed **point-spread-function (PSF) degradation and wavefront distortion**.
+- Investigated computational correction approaches relevant to **adaptive optics**.
 
 ---
 

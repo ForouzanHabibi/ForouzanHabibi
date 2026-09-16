@@ -67,8 +67,13 @@ I am a **researcher in optics and signal processing** with expertise in:
 - ✅ Programming for Everybody (Python)
 - ✅ Python Data Structures
 - ✅ Digital Signal Processing 1: Basic Algorithms
-
-
+- ✅ Nanophotonics and Detectors
+- ✅ Photovoltaic Systems
+- ✅ Generative AI Advanced Fine-Tuning for LLMs
+- ✅ Prompt Engineering for LLMs
+- ✅ Solar Energy System Design
+- ✅ Developing LLM Applications with LangChain
+ 
 ## 📞 **Contact Me**
 💡 Interested in collaborating on **optical simulations, signal processing, or AI for optics**? Feel free to reach out!  
 📧 **Email:** forouzan.habibi1990@gmail.com  

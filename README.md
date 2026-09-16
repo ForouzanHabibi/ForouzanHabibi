@@ -1,7 +1,8 @@
 # 🔬 Optics & Signal Processing Portfolio
 
-Welcome to my portfolio! I specialize in **metalenses, optical simulations, adaptive optics, and signal processing**. My projects focus on **computational optics, wavefront engineering, and Fourier-based signal processing techniques** using **MATLAB, Python, Zemax, and Lumerical**.
+Welcome to my portfolio! I specialize in **computational photonics, metalenses, optical simulations, wavefront engineering, and scientific computing**. My projects focus on **metasurfaces, Fourier optics, adaptive optics, optical propagation, and scientific data analysis** using **MATLAB, Python, Zemax, Lumerical, and COMSOL**.
 
+I am also exploring **scientific data curation and AI-assisted analysis**, including structured analysis of experimental **perovskite solar-cell datasets**.
 ---
 
 ## 📌 **About Me**

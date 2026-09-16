@@ -23,7 +23,7 @@ I am a **researcher in optics, photonics, and scientific computing** with expert
 ## 🚀 **Featured Projects**
 
 ### **1️⃣ Metalens Design & Computational Optics**
-🔗 **[GitHub Repository](REPOSITORY-LINK)**
+
 - Designed and simulated **phase-engineered metalenses** for optical beam focusing.
 - Implemented **hyperbolic phase profiles** and analyzed wavefront manipulation.
 - Investigated **diffraction and Fourier-optics-based propagation** using numerical simulations.
@@ -32,7 +32,6 @@ I am a **researcher in optics, photonics, and scientific computing** with expert
 ---
 
 ### **2️⃣ Perovskite Solar-Cell Scientific Data Curation & Analysis**
-🔗 **[GitHub Repository](REPOSITORY-LINK)**
 
 - Developed a **Python-based scientific data curation pipeline** for experimental perovskite solar-cell datasets.
 - Cleaned and validated photovoltaic records containing **PCE, Voc, Jsc, FF, absorber, ETL, HTL, and device architecture information**.
@@ -43,7 +42,7 @@ I am a **researcher in optics, photonics, and scientific computing** with expert
 ---
 
 ### **3️⃣ Adaptive Optics & Wavefront Reconstruction**
-🔗 **[GitHub Repository](REPOSITORY-LINK)**
+
 - Simulated **wavefront distortions and adaptive-optics correction methods**.
 - Implemented **Zernike-polynomial-based wavefront representation and reconstruction**.
 - Applied Fourier-domain methods for optical wavefront analysis.
@@ -52,7 +51,7 @@ I am a **researcher in optics, photonics, and scientific computing** with expert
 ---
 
 ### **4️⃣ Optical Vortex Beam Simulation**
-🔗 **[GitHub Repository](REPOSITORY-LINK)**
+
 - Simulated **optical vortex beams and helical phase distributions**.
 - Analyzed **orbital angular momentum (OAM)** and phase singularities.
 - Applied **Fourier optics and numerical propagation methods** to investigate vortex-beam evolution.
@@ -61,7 +60,7 @@ I am a **researcher in optics, photonics, and scientific computing** with expert
 ---
 
 ### **5️⃣ Atmospheric Turbulence & Optical Propagation**
-🔗 **[GitHub Repository](REPOSITORY-LINK)**
+
 - Generated numerical **Kolmogorov turbulence phase screens**.
 - Modeled turbulence-induced phase distortions in **free-space optical propagation**.
 - Analyzed **point-spread-function (PSF) degradation and wavefront distortion**.

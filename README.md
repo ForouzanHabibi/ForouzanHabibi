@@ -126,6 +126,7 @@ My research experience and technical interests include:
 ### 🔹 Programming & Scientific Computing
 
 - **Python:** NumPy, SciPy, Matplotlib, Pandas, HCIPy
+- **C++17:** Numerical electromagnetic solvers, Yee-FDTD, OpenMP parallelization
 - **MATLAB:** Numerical simulations, Fourier optics, and scientific data processing
 - **LabVIEW:** Scientific instrumentation and programming
 

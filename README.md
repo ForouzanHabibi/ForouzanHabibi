@@ -46,7 +46,25 @@ My research experience and technical interests include:
 
 ---
 
-### 2️⃣ Scalar Vortex Coronagraph: Charge and Aberration Analysis with HCIPy
+### 2️⃣ C++ FDTD Metalens Simulation
+
+🔗 **[View C++ FDTD Metalens Project](https://github.com/ForouzanHabibi/cpp-fdtd-metalens)**
+
+- Developed a **2D TMz finite-difference time-domain (FDTD) solver from scratch in C++17** for electromagnetic wave propagation and metalens simulation.
+- Implemented **Yee-grid discretization, CPML absorbing boundaries, Fourier-domain field monitors, and OpenMP parallelization**.
+- Constructed and validated an **8-state transmission-phase library** for a discrete 21-cell metalens.
+- Simulated metalens focusing and evaluated **focal position, lateral FWHM, transmission, and focusing efficiency**.
+- Performed **grid-convergence analysis, subpixel dielectric averaging, and broadband spectral characterization**.
+- Achieved a simulated **64.83% focusing efficiency** at a design wavelength of **1550 nm** within the idealized 2D model.
+
+**Tools:** C++17, FDTD, OpenMP, Python, NumPy, Matplotlib.
+
+**Model:** Idealized 2D TMz electromagnetic simulation.
+
+---
+
+
+### 3️⃣ Scalar Vortex Coronagraph: Charge and Aberration Analysis with HCIPy
 
 🔗 **[View Simulation Code and Results](https://github.com/ForouzanHabibi/HCIPy_Vortex_Coronagraph_GitHub_Ready)**
 
@@ -63,7 +81,7 @@ My research experience and technical interests include:
 
 ---
 
-### 3️⃣ Perovskite Solar-Cell Scientific Data Curation & Analysis
+### 4️⃣ Perovskite Solar-Cell Scientific Data Curation & Analysis
 
 🔗 **[View Project](https://github.com/ForouzanHabibi/perovskite-solar-cell-data-analysis)**
 
@@ -75,7 +93,7 @@ My research experience and technical interests include:
 
 ---
 
-### 4️⃣ Adaptive Optics & Wavefront Reconstruction
+### 5️⃣ Adaptive Optics & Wavefront Reconstruction
 
 - Simulated **wavefront distortions and adaptive-optics correction methods**.
 - Implemented **Zernike-polynomial-based wavefront representation and reconstruction**.
@@ -84,7 +102,7 @@ My research experience and technical interests include:
 
 ---
 
-### 5️⃣ Optical Vortex Beam Simulation
+### 6️⃣ Optical Vortex Beam Simulation
 
 - Investigated **optical vortex beams, helical phase distributions, and phase singularities**.
 - Analyzed **orbital angular momentum (OAM)** and structured-light propagation.
@@ -94,7 +112,7 @@ My research experience and technical interests include:
 
 ---
 
-### 6️⃣ Atmospheric Turbulence & Optical Propagation
+### 7️⃣ Atmospheric Turbulence & Optical Propagation
 
 - Generated numerical **Kolmogorov turbulence phase screens**.
 - Modeled turbulence-induced phase distortions in **free-space optical propagation**.

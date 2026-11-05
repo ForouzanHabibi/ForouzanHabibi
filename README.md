@@ -66,7 +66,7 @@ My research experience and technical interests include:
 
 ### 3️⃣ Scalar Vortex Coronagraph: Charge and Aberration Analysis with HCIPy
 
-🔗 **[View Simulation Code and Results](https://github.com/ForouzanHabibi/HCIPy_Vortex_Coronagraph_GitHub_Ready)**
+🔗 **[View Simulation Code and Results](https://github.com/ForouzanHabibi/HCIPy_Vortex_Coronagraph_Up)**
 
 - Developed a **Python/HCIPy simulation workflow** for scalar vortex coronagraphs with topological charges **2, 4, and 6**.
 - Investigated the sensitivity of stellar suppression to **Zernike wavefront aberrations**, including defocus, astigmatism, and coma.

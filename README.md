@@ -63,7 +63,6 @@ My research experience and technical interests include:
 
 ---
 
-
 ### 3️⃣ Scalar Vortex Coronagraph: Charge and Aberration Analysis with HCIPy
 
 🔗 **[View Simulation Code and Results](https://github.com/ForouzanHabibi/HCIPy_Vortex_Coronagraph_Up)**
